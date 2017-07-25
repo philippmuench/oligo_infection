@@ -1,0 +1,95 @@
+cat	pval	fdr	stars
+Biotin	0.00276829972317003	0.0254945065414584	 *
+Cofactors, Vitamins, Prosthetic Groups, Pigments - no subcategory	0.864098213590179	1	
+Tetrapyrroles	1	1	
+Riboflavin, FMN, FAD	0.00655349934465007	0.0513357448664255	
+Pyridoxine	0.097669190233081	0.405415420328023	
+NAD and NADP	0.760836523916348	1	
+Folate and pterines	0.00791489920851008	0.0531428946857105	
+Coenzyme A	0.0117277988272201	0.0734942059839127	
+Capsular and extracellular polysacchrides	0.97632010236799	1	
+Cell Wall and Capsule - no subcategory	0.153426584657342	0.515074962778218	
+Gram-Positive cell wall components	1	1	
+Bacteriocins, ribosomally synthesized antibacterial peptides	1	1	
+Resistance to antibiotics and toxic compounds	0.397572560242744	1	
+Invasion and intracellular resistance	1	1	
+Potassium metabolism - no subcategory	0.0550236944976306	0.246296537275108	
+Plant-Prokaryote DOE project	0.00190449980955002	0.0198914424553002	 *
+Miscellaneous - no subcategory	0.828556017144398	1	
+Phages, Prophages	1	1	
+Protein secretion system, Type II	1	1	
+ABC transporters	1	1	
+Protein translocation across cytoplasmic membrane	0.000721299927870007	0.00847527415247258	 * *
+Cation transporters	0.943772705622729	1	
+Uni- Sym- and Antiporters	1	1	
+Membrane Transport - no subcategory	1	1	
+TRAP transporters	1	1	
+Protein and nucleoprotein secretion system, Type IV	1	1	
+Iron acquisition and metabolism - no subcategory	1	1	
+RNA processing and modification	0.00789779921022008	0.0531428946857105	
+Transcription	0.126314187368581	0.474941344505866	
+RNA Metabolism - no subcategory	1	1	
+Pyrimidines	0.386199061380094	1	
+Purines	0.0465273953472605	0.218678758132124	
+Nucleosides and Nucleotides - no subcategory	0.145380085461991	0.515074962778218	
+Detoxification	0.812129318787068	1	
+Protein folding	0.174211482578852	0.564685495255588	
+Protein biosynthesis	0.0278857972114203	0.145625829881861	
+Protein processing and modification	0.543069345693065	1	
+Protein degradation	0.700776929922307	1	
+Checkpoint control	1	1	
+Cell Division and Cell Cycle - no subcategory	0.0308481969151803	0.152617395264576	
+Motility and Chemotaxis - no subcategory	1	1	
+Regulation and Cell signaling - no subcategory	0.478423452157655	1	
+Regulation of virulence	1	1	
+Programmed Cell Death and Toxin-antitoxin Systems	1	1	
+Secondary Metabolism - no subcategory	1	1	
+Plant Hormones	1	1	
+DNA repair	0.354791964520804	0.965824120560445	
+CRISPs	1	1	
+DNA Metabolism - no subcategory	0.509682449031755	1	
+DNA replication	2.69999973000003e-06	6.20399937960006e-05	 * * *
+DNA recombination	1	1	
+DNA uptake, competence	3.29999967000003e-06	6.20399937960006e-05	 * * *
+Phospholipids	1	1	
+Triacylglycerols	1	1	
+Fatty acids	1	1	
+Isoprenoids	0.250101874989813	0.758373427388464	
+Nitrogen Metabolism - no subcategory	0.0265286973471303	0.145625829881861	
+Spore DNA protection	1	1	
+Dormancy and Sporulation - no subcategory	9.9999990000001e-08	3.13333302000003e-06	 * * *
+ATP synthases	1	1	
+Electron accepting reactions	1	1	
+Electron donating reactions	9.9999990000001e-08	3.13333302000003e-06	 * * *
+Respiration - no subcategory	1	1	
+Sodium Ion-Coupled Energetics	1	1	
+Osmotic stress	0.000246999975300002	0.00331685681117146	 * *
+Oxidative stress	0.099197390080261	0.405415420328023	
+Cold shock	1	1	
+Heat shock	0.757359024264098	1	
+Stress Response - no subcategory	1	1	
+Periplasmic Stress	1	1	
+Peripheral pathways for catabolism of aromatic compounds	0.222137677786232	0.696031390396861	
+Metabolism of central aromatic intermediates	1	1	
+Metabolism of Aromatic Compounds - no subcategory	1	1	
+Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	0.152547684745232	0.515074962778218	
+Histidine Metabolism	1	1	
+Arginine; urea cycle, polyamines	0.291913270808673	0.857495233000477	
+Lysine, threonine, methionine, and cysteine	0.473506952649305	1	
+Amino Acids and Derivatives - no subcategory	1	1	
+Branched-chain amino acids	1	1	
+Aromatic amino acids and derivatives	9.9999990000001e-08	3.13333302000003e-06	 * * *
+Proline and 4-hydroxyproline	0.740124225987577	1	
+Alanine, serine, and glycine	0.0183779981622002	0.107970739202926	
+Sulfur Metabolism - no subcategory	0.630924136907586	1	
+Phosphorus Metabolism - no subcategory	0.109746989025301	0.429842373682429	
+Central carbohydrate metabolism	0.334832066516793	0.953764068259957	
+Aminosugars	1	1	
+Di- and oligosaccharides	1	1	
+One-carbon Metabolism	0.00298339970166003	0.0254945065414584	 *
+Organic acids	1	1	
+Fermentation	2.19999978000002e-05	0.000344666632200003	 * * *
+Sugar alcohols	1	1	
+Carbohydrates - no subcategory	1	1	
+Polysaccharides	1	1	
+Monosaccharides	0.359615364038464	0.965824120560445	
