@@ -52,7 +52,7 @@ source('analysis2.R')
 ```
 
 # Analysis 3
-**Aim:** Random forest regression
+**Aim:** Random forest regression based on Subsystem annotation with FC as response variable
 
 **Results:**
 - random forest model
