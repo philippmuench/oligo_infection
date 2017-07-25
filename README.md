@@ -8,6 +8,9 @@
 [Analysis 3 (Random Forest Regression)](#analysis-3)  
 [Analysis 4 (per Subsystem, 2 groups, depleted + intermediate vs. enriched)](#analysis-4)  
 [Analysis 5 (per Subsystem, 2 groups, enriched + intermediate vs. depleted)](#analysis-5)  
+[Analysis 6 (per Subsystem, 3 groups, enriched + intermediate vs. depleted)](#analysis-6)  
+[Analysis 7 (per Subcategory, 2 groups, enriched vs. depleted + intermediate)](#analysis-7)  
+[Analysis 8 (per Subcategory, 2 groups, depleted vs. intermediate + enriched)](#analysis-8)  
 
 # Results
 # Analysis 1
@@ -107,4 +110,46 @@ source('analysis4.R')
 
 ```
 source('analysis5.R')
+```
+
+
+# Analysis 6
+**Aim:** Fisher test and heat map for every SEED Subsystem. 3 groups
+
+**Results:**
+- heatmaps: see `analysis4` [folder](analysis6/)
+- [FDR corrected P value matrix](analysis6/table5.xlsx)
+
+**Reproduce:**
+
+```
+source('analysis6.R')
+```
+
+
+# Analysis 7
+**Aim:** Fisher test and heat map for every SEED Subcategory. enriched vs. depleted + intermediate
+
+**Results:**
+- heatmaps: see `analysis4` [folder](analysis7/)
+- [FDR corrected P value matrix](analysis7/table3.xlsx)
+
+**Reproduce:**
+
+```
+source('analysis4.R')
+```
+
+
+# Analysis 8
+**Aim:** Fisher test and heat map for every SEED Subcategory. 2 groups, depleted vs. intermediate + enriched
+
+**Results:**
+- heatmaps: see `analysis4` [folder](analysis8/)
+- [FDR corrected P value matrix](analysis8/table4.xlsx)
+
+**Reproduce:**
+
+```
+source('analysis8.R')
 ```
