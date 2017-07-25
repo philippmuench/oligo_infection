@@ -1,0 +1,308 @@
+cat	pval	fdr	stars
+Biotin biosynthesis	0.344781585189742	1	
+Biotin biosynthesis Experimental	NA	NA	NA
+Thiamin biosynthesis	0.864123878816018	1	
+Cobalamin synthesis	NA	NA	NA
+Riboflavin, FMN and FAD metabolism in plants	0.167646716179131	1	
+riboflavin to FAD	0.541252351047925	1	
+Flavodoxin	NA	NA	NA
+Riboflavin, FMN and FAD metabolism	0.223199676458742	1	
+Pyridoxin (Vitamin B6) Biosynthesis	NA	NA	NA
+Pyridoxin(Vitamin B6) Degradation Pathway	NA	NA	NA
+NAD and NADP cofactor biosynthesis global	0.760762875966039	1	
+Folate biosynthesis cluster	0.128268216720137	1	
+Molybdenum cofactor biosynthesis	NA	NA	NA
+Folate Biosynthesis	0.0858831283464514	1	
+Coenzyme A Biosynthesis	0.38405947429251	1	
+dTDP-rhamnose synthesis	NA	NA	NA
+CMP-N-acetylneuraminate Biosynthesis	NA	NA	NA
+Polysaccharide deacetylases	NA	NA	NA
+Phosphorylcholine incorporation in LPS	NA	NA	NA
+Rhamnose containing glycans	NA	NA	NA
+Exopolysaccharide Biosynthesis	NA	NA	NA
+Sialic Acid Metabolism	NA	NA	NA
+Murein Hydrolases	0.260949774799996	1	
+UDP-N-acetylmuramate from Fructose-6-phosphate Biosynthesis	0.583993403075371	1	
+YjeE	0.934028730072381	1	
+Recycling of Peptidoglycan Amino Acids	NA	NA	NA
+Peptidoglycan biosynthesis--gjo	0.932443265169399	1	
+Teichoic and lipoteichoic acids biosynthesis	NA	NA	NA
+D-Alanyl Lipoteichoic Acid Biosynthesis	NA	NA	NA
+Sortase	NA	NA	NA
+Polyglycerolphosphate lipoteichoic acid biosynthesis	NA	NA	NA
+Bacitracin Stress Response	NA	NA	NA
+Copper homeostasis	0.504459031634077	1	
+Cobalt-zinc-cadmium resistance	0.906693190520092	1	
+Resistance to Vancomycin	NA	NA	NA
+Mercuric reductase	NA	NA	NA
+Mercury resistance operon	NA	NA	NA
+Tetracycline resistance, ribosome protection type	NA	NA	NA
+Resistance to fluoroquinolones	0.549755437426347	1	
+Tetracycline resistance, ribosome protection type, too	NA	NA	NA
+Beta-lactamase	NA	NA	NA
+Cadmium resistance	NA	NA	NA
+Multidrug Resistance Efflux Pumps	NA	NA	NA
+Mycobacterium virulence operon involved in protein synthesis (SSU ribosomal proteins)	0.999999999976671	1	
+Mycobacterium virulence operon involved in an unknown function with a Jag Protein and YidC and YidD	NA	NA	NA
+Mycobacterium virulence operon involved in DNA transcription	0.999999999991587	1	
+Mycobacterium virulence operon possibly involved in quinolinate biosynthesis	NA	NA	NA
+Listeria surface proteins: Internalin-like proteins	NA	NA	NA
+Mycobacterium virulence operon involved in protein synthesis (LSU ribosomal proteins)	NA	NA	NA
+Potassium homeostasis	0.198110819209347	1	
+Hyperosmotic potassium uptake	NA	NA	NA
+Conserved gene cluster possibly involved in RNA metabolism	NA	NA	NA
+Phosphoglycerate mutase protein family	0.645073815075475	1	
+Tungstate strays	NA	NA	NA
+Muconate lactonizing enzyme family	NA	NA	NA
+Bacillus subtilis scratch - gjo	NA	NA	NA
+Phage tail proteins	NA	NA	NA
+Phage replication	NA	NA	NA
+Phage packaging machinery	NA	NA	NA
+Phage tail proteins 2	NA	NA	NA
+Phage capsid proteins	NA	NA	NA
+IbrA and IbrB: co-activators of prophage gene expression	NA	NA	NA
+Widespread colonization island	NA	NA	NA
+ABC transporter tungstate (TC 3.A.1.6.2)	NA	NA	NA
+ABC transporter oligopeptide (TC 3.A.1.5.1)	NA	NA	NA
+ABC transporter dipeptide (TC 3.A.1.5.2)	NA	NA	NA
+Bacterial signal recognition particle (SRP)	0.730826219150609	1	
+Magnesium transport	0.444897360110353	1	
+Transport of Nickel and Cobalt	NA	NA	NA
+Copper Transport System	1	1	
+NhaA, NhaD and Sodium-dependent phosphate transporters	NA	NA	NA
+Tricarboxylate transport system	NA	NA	NA
+ECF class transporters	NA	NA	NA
+Ton and Tol transport systems	NA	NA	NA
+TRAP Transporter collection	NA	NA	NA
+Type IV pilus	NA	NA	NA
+Iron acquisition in Streptococcus	NA	NA	NA
+RNA pseudouridine syntheses	0.944482222582155	1	
+tRNA nucleotidyltransferase	1	1	
+Methylthiotransferases	NA	NA	NA
+Ribonucleases in Bacillus	NA	NA	NA
+RNA processing and degradation, bacterial	0.821807400400788	1	
+RNA methylation	0.825283271180192	1	
+16S rRNA modification within P site of ribosome	0.967339930409601	1	
+Queuosine-Archaeosine Biosynthesis	0.484762877825469	1	
+Ribonuclease H	0.636736072675673	1	
+tRNA processing	0.942931410481124	1	
+Transcription initiation, bacterial sigma factors	0.00761133621187937	0.411012155441486	
+RNA polymerase bacterial	0.570723349405281	1	
+Transcription factors bacterial	0.81797950726061	1	
+Rrf2 family transcriptional regulators	NA	NA	NA
+Group II intron-associated genes	NA	NA	NA
+De Novo Pyrimidine Synthesis	0.938728226143453	1	
+De Novo Purine Biosynthesis	0.472988176311899	1	
+Xanthine dehydrogenase subunits	NA	NA	NA
+Xanthine Metabolism in Bacteria	NA	NA	NA
+Purine Utilization	NA	NA	NA
+Purine conversions	0.0890335662984238	1	
+Ribonucleotide reduction	0.230592913796491	1	
+Hydantoin metabolism	NA	NA	NA
+Adenosyl nucleosidases	NA	NA	NA
+Nudix proteins (nucleoside triphosphate hydrolases)	0.453930723099133	1	
+Housecleaning nucleoside triphosphate pyrophosphatases	0.756033168238383	1	
+GroEL GroES	0.863576812845436	1	
+Protein chaperones	0.566217338702629	1	
+tRNA aminoacylation, Val	1	1	
+tRNA aminoacylation, Met	1	1	
+tRNA aminoacylation, Ile	1	1	
+tRNA aminoacylation, Arg	1	1	
+Translation initiation factors bacterial	NA	NA	NA
+Ribosome SSU bacterial	NA	NA	NA
+tRNA aminoacylation, Gly	0.578332548826293	1	
+tRNA aminoacylation, Ala	0.672129673838954	1	
+Ribosome activity modulation	NA	NA	NA
+tRNA aminoacylation, Trp	1	1	
+Ribosome biogenesis bacterial	0.885834141511824	1	
+Ribosome LSU bacterial	NA	NA	NA
+Programmed frameshift	1	1	
+tRNA aminoacylation, Cys	1	1	
+Translation termination factors bacterial	0.980488802602307	1	
+Universal GTPases	0.838533145059667	1	
+tRNA aminoacylation, His	1	1	
+tRNA aminoacylation, Asp and Asn	0.625748941732976	1	
+Translation elongation factors bacterial	0.968402327191865	1	
+tRNAs	0.298074717856181	1	
+tRNA aminoacylation, Lys	1	1	
+tRNA aminoacylation, Thr	1	1	
+tRNA aminoacylation, Pro	0.781649720907863	1	
+Translation elongation factor G family	0.67560741515496	1	
+tRNA aminoacylation, Glu and Gln	0.625748941732976	1	
+tRNA aminoacylation, Ser	1	1	
+tRNA aminoacylation, Tyr	1	1	
+tRNA aminoacylation, Leu	1	1	
+tRNA aminoacylation, Phe	0.636736072675673	1	
+Lipoprotein Biosynthesis	0.855383824933511	1	
+Signal peptidase	0.999999999991587	1	
+Ribosomal protein S12p Asp methylthiotransferase	NA	NA	NA
+G3E family of P-loop GTPases (metallocenter biosynthesis)	NA	NA	NA
+Ribosomal protein S5p acylation	NA	NA	NA
+N-linked Glycosylation in Bacteria	NA	NA	NA
+Aminopeptidases (EC 3.4.11.-)	NA	NA	NA
+Protein degradation	0.943095508356049	1	
+Metallocarboxypeptidases (EC 3.4.17.-)	0.951720152438182	1	
+Dipeptidases (EC 3.4.13.-)	NA	NA	NA
+Proteolysis in bacteria, ATP-dependent	0.201141762605903	1	
+Bacterial checkpoint-control-related cluster	NA	NA	NA
+YgjD and YeaZ	0.999999999991587	1	
+Macromolecular synthesis operon	0.645307922341795	1	
+Bacterial Cytoskeleton	0.803889173212897	1	
+Bacterial Chemotaxis	NA	NA	NA
+cAMP signaling in bacteria	NA	NA	NA
+LysR-family proteins in Salmonella enterica Typhimurium	NA	NA	NA
+LysR-family proteins in Escherichia coli	NA	NA	NA
+HPr catabolite repression system	NA	NA	NA
+Orphan regulatory proteins	NA	NA	NA
+Stringent Response, (p)ppGpp metabolism	NA	NA	NA
+Cell envelope-associated LytR-CpsA-Psr transcriptional attenuators	NA	NA	NA
+BarA-UvrY(SirA) two-component regulatory system	NA	NA	NA
+Murein hydrolase regulation and cell death	NA	NA	NA
+Toxin-antitoxin replicon stabilization systems	NA	NA	NA
+Lanthionine Synthetases	NA	NA	NA
+Auxin biosynthesis	NA	NA	NA
+Uracil-DNA glycosylase	0.760185592429348	1	
+DNA repair, bacterial MutL-MutS system	NA	NA	NA
+DNA repair, UvrABC system	0.932190931983915	1	
+DNA repair, bacterial DinG and relatives	NA	NA	NA
+2-phosphoglycolate salvage	NA	NA	NA
+RecA and RecX	NA	NA	NA
+DNA repair system including RecA, MutS and a hypothetical protein	NA	NA	NA
+ATP-dependent Nuclease	NA	NA	NA
+DNA repair, bacterial	0.869518570997135	1	
+DNA repair, bacterial RecFOR pathway	NA	NA	NA
+DNA repair, bacterial RecBCD pathway	NA	NA	NA
+Nonhomologous End-Joining in Bacteria	NA	NA	NA
+DNA repair, bacterial UvrD and related helicases	0.940324971494537	1	
+DNA Repair Base Excision	0.556110521318955	1	
+CRISPRs	NA	NA	NA
+DNA ligases	NA	NA	NA
+YcfH	0.642049887169619	1	
+DNA structural proteins, bacterial	0.624315440185783	1	
+DNA topoisomerases, Type I, ATP-independent	1	1	
+DNA-replication	NA	NA	NA
+DNA topoisomerases, Type II, ATP-dependent	0.617559525241466	1	
+RuvABC plus a hypothetical	NA	NA	NA
+DNA processing cluster	0.9536086078921	1	
+Cardiolipin synthesis	NA	NA	NA
+Glycerolipid and Glycerophospholipid Metabolism in Bacteria	NA	NA	NA
+Triacylglycerol metabolism	NA	NA	NA
+Fatty Acid Biosynthesis FASII	NA	NA	NA
+Isoprenoinds for Quinones	0.581938563234289	1	
+Isoprenoid Biosynthesis	0.772515365250383	1	
+Nonmevalonate Branch of Isoprenoid Biosynthesis	NA	NA	NA
+Nitrosative stress	NA	NA	NA
+Nitrate and nitrite ammonification	NA	NA	NA
+Ammonia assimilation	NA	NA	NA
+Dipicolinate Synthesis	NA	NA	NA
+Small acid-soluble spore proteins	NA	NA	NA
+Sporulation gene orphans	NA	NA	NA
+Spore Core Dehydration	NA	NA	NA
+Sporulation-associated proteins with broader functions	0.23172782160553	1	
+SpoVS protein family	NA	NA	NA
+Sporulation Cluster III A	NA	NA	NA
+V-Type ATP synthase	NA	NA	NA
+Anaerobic respiratory reductases	NA	NA	NA
+Na(+)-translocating NADH-quinone oxidoreductase and rnf-like group of electron transport complexes	NA	NA	NA
+Respiratory dehydrogenases 1	0.823391214902911	1	
+NiFe hydrogenase maturation	NA	NA	NA
+Carbon monoxide induced hydrogenase	NA	NA	NA
+Formate hydrogenase	NA	NA	NA
+Soluble cytochromes and functionally related electron carriers	NA	NA	NA
+Na+ translocating decarboxylases and related biotin-dependent enzymes	NA	NA	NA
+Choline and Betaine Uptake and Betaine Biosynthesis	NA	NA	NA
+Oxidative stress	NA	NA	NA
+Glutathione: Non-redox reactions	NA	NA	NA
+Rubrerythrin	NA	NA	NA
+Redox-dependent regulation of nucleus processes	NA	NA	NA
+Cold shock, CspA family of proteins	NA	NA	NA
+Heat shock dnaK gene cluster extended	0.757375750795863	1	
+Uptake of selenate and selenite	NA	NA	NA
+SigmaB stress responce regulation	NA	NA	NA
+Hfl operon	NA	NA	NA
+Carbon Starvation	NA	NA	NA
+Periplasmic Stress Response	NA	NA	NA
+Quinate degradation	NA	NA	NA
+Salicylate and gentisate catabolism	NA	NA	NA
+Gentisate degradation	NA	NA	NA
+Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	0.263734487744548	1	
+Glutamate dehydrogenases	NA	NA	NA
+Glutamine synthetases	0.873624380440564	1	
+Glutamate and Aspartate uptake in Bacteria	NA	NA	NA
+Histidine Degradation	NA	NA	NA
+Histidine Biosynthesis	NA	NA	NA
+Arginine Deiminase Pathway	NA	NA	NA
+Polyamine Metabolism	NA	NA	NA
+Arginine and Ornithine Degradation	NA	NA	NA
+Arginine Biosynthesis extended	NA	NA	NA
+Arginine Biosynthesis -- gjo	NA	NA	NA
+Methionine Biosynthesis	0.738984127220292	1	
+Threonine degradation	NA	NA	NA
+Lysine Biosynthesis DAP Pathway, GJO scratch	0.853198789200964	1	
+Methionine Degradation	NA	NA	NA
+Threonine and Homoserine Biosynthesis	0.903325182566965	1	
+Cysteine Biosynthesis	NA	NA	NA
+Lysine Biosynthesis DAP Pathway	0.853198789200964	1	
+Lysine degradation	NA	NA	NA
+Creatine and Creatinine Degradation	NA	NA	NA
+Branched-Chain Amino Acid Biosynthesis	NA	NA	NA
+Leucine Biosynthesis	NA	NA	NA
+Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	NA	NA	NA
+Aromatic amino acid interconversions with aryl acids	NA	NA	NA
+Indole-pyruvate oxidoreductase complex	NA	NA	NA
+Chorismate Synthesis	NA	NA	NA
+Chorismate: Intermediate for synthesis of Tryptophan, PAPA antibiotics, PABA, 3-hydroxyanthranilate and more.	0.00019236461014623	0.0207753778957929	 *
+Phenylalanine and Tyrosine Branches from Chorismate	0.231469843745824	1	
+Tryptophan synthesis	NA	NA	NA
+Proline Synthesis	0.840475210740772	1	
+A Hypothetical Protein Related to Proline Metabolism	0.999999999991587	1	
+Glycine Biosynthesis	NA	NA	NA
+Alanine biosynthesis	0.980106531941768	1	
+Serine Biosynthesis	0.378345524823943	1	
+Glycine and Serine Utilization	NA	NA	NA
+Thioredoxin-disulfide reductase	0.610896345504625	1	
+Galactosylceramide and Sulfatide metabolism	NA	NA	NA
+High affinity phosphate transporter and control of PHO regulon	0.841180791099357	1	
+Phosphate metabolism	NA	NA	NA
+Polyphosphate	NA	NA	NA
+Phosphonate metabolism	NA	NA	NA
+Methylglyoxal Metabolism	NA	NA	NA
+Pyruvate:ferredoxin oxidoreductase	NA	NA	NA
+Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate	0.0435734451983722	1	
+Pyruvate Alanine Serine Interconversions	0.890630867529245	1	
+Glycolysis and Gluconeogenesis	NA	NA	NA
+Entner-Doudoroff Pathway	NA	NA	NA
+Pentose phosphate pathway	NA	NA	NA
+Pyruvate metabolism I: anaplerotic reactions, PEP	0.792074491726555	1	
+Glycolate, glyoxylate interconversions	NA	NA	NA
+Chitin and N-acetylglucosamine utilization	NA	NA	NA
+N-Acetyl-Galactosamine and Galactosamine Utilization	NA	NA	NA
+Trehalose Biosynthesis	NA	NA	NA
+Sucrose utilization	NA	NA	NA
+Fructooligosaccharides(FOS) and Raffinose Utilization	NA	NA	NA
+Maltose and Maltodextrin Utilization	NA	NA	NA
+Trehalose Uptake and Utilization	NA	NA	NA
+Lactose and Galactose Uptake and Utilization	NA	NA	NA
+Lactose utilization	NA	NA	NA
+One-carbon metabolism by tetrahydropterines	0.821559857759932	1	
+Methanogenesis	NA	NA	NA
+Glycerate metabolism	NA	NA	NA
+Citrate Metabolism, Transport, and Regulation	NA	NA	NA
+Fermentations: Mixed acid	NA	NA	NA
+Acetolactate synthase subunits	NA	NA	NA
+Fermentations: Lactate	NA	NA	NA
+Glycerol and Glycerol-3-phosphate Uptake and Utilization	NA	NA	NA
+Inositol catabolism	NA	NA	NA
+Lacto-N-Biose I and Galacto-N-Biose Metabolic Pathway	NA	NA	NA
+Glycogen metabolism	NA	NA	NA
+Alpha-Amylase locus in Streptocococcus	NA	NA	NA
+Mannose Metabolism	NA	NA	NA
+Deoxyribose and Deoxynucleoside Catabolism	NA	NA	NA
+Fructose utilization	NA	NA	NA
+D-galactarate, D-glucarate and D-glycerate catabolism - gjo	NA	NA	NA
+D-Galacturonate and D-Glucuronate Utilization	NA	NA	NA
+D-ribose utilization	NA	NA	NA
+L-fucose utilization temp	NA	NA	NA
+Xylose utilization	NA	NA	NA
+D-galactarate, D-glucarate and D-glycerate catabolism	NA	NA	NA
+L-Arabinose utilization	NA	NA	NA

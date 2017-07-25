@@ -1,0 +1,95 @@
+cat	pval	fdr	stars
+Biotin	0.000535866591503435	0.0046441771263631	 * *
+Cofactors, Vitamins, Prosthetic Groups, Pigments - no subcategory	0.830806446553945	0.939172504800112	
+Tetrapyrroles	NA	NA	NA
+Riboflavin, FMN, FAD	0.00421132480340141	0.024332098864097	 *
+Pyridoxine	0.126056492517282	0.297951709586302	
+NAD and NADP	0.923209750174935	0.960138140181932	
+Folate and pterines	0.243752235258745	0.422503874448491	
+Coenzyme A	0.00262305675864103	0.0170498689311667	 *
+Capsular and extracellular polysacchrides	0.951302478920116	0.969955468702864	
+Cell Wall and Capsule - no subcategory	0.208641593807448	0.40182825474027	
+Gram-Positive cell wall components	NA	NA	NA
+Bacteriocins, ribosomally synthesized antibacterial peptides	NA	NA	NA
+Resistance to antibiotics and toxic compounds	0.614786106228767	0.815651131807741	
+Invasion and intracellular resistance	1	1	
+Potassium metabolism - no subcategory	0.047032600046979	0.152855950152682	
+Plant-Prokaryote DOE project	0.183108300968168	0.396734652097696	
+Miscellaneous - no subcategory	0.90393003805499	0.959272693446111	
+Phages, Prophages	NA	NA	NA
+Protein secretion system, Type II	NA	NA	NA
+ABC transporters	NA	NA	NA
+Protein translocation across cytoplasmic membrane	0.203782230341161	0.40182825474027	
+Cation transporters	0.801931423600968	0.939172504800112	
+Uni- Sym- and Antiporters	NA	NA	NA
+Membrane Transport - no subcategory	NA	NA	NA
+TRAP transporters	NA	NA	NA
+Protein and nucleoprotein secretion system, Type IV	NA	NA	NA
+Iron acquisition and metabolism - no subcategory	NA	NA	NA
+RNA processing and modification	0.11546872585446	0.285922559258663	
+Transcription	0.0928721214305976	0.254176332336372	
+RNA Metabolism - no subcategory	NA	NA	NA
+Pyrimidines	0.890874544325631	0.959272693446111	
+Purines	0.0285416404025152	0.123680441744232	
+Nucleosides and Nucleotides - no subcategory	0.114219168913879	0.285922559258663	
+Detoxification	0.818239338057644	0.939172504800112	
+Protein folding	0.0720386065484536	0.208111530028866	
+Protein biosynthesis	0.671914747801193	0.83189444965862	
+Protein processing and modification	0.515568135031405	0.72458224382792	
+Protein degradation	0.871696958803005	0.959272693446111	
+Checkpoint control	NA	NA	NA
+Cell Division and Cell Cycle - no subcategory	0.704100020936813	0.851469792760797	
+Motility and Chemotaxis - no subcategory	NA	NA	NA
+Regulation and Cell signaling - no subcategory	0.485185072285649	0.719350070238654	
+Regulation of virulence	NA	NA	NA
+Programmed Cell Death and Toxin-antitoxin Systems	NA	NA	NA
+Secondary Metabolism - no subcategory	NA	NA	NA
+Plant Hormones	NA	NA	NA
+DNA repair	0.200058464354809	0.40182825474027	
+CRISPs	NA	NA	NA
+DNA Metabolism - no subcategory	0.665051743010295	0.83189444965862	
+DNA replication	4.02509153451126e-06	8.99369301792792e-05	 * * *
+DNA recombination	NA	NA	NA
+DNA uptake, competence	0.0054864670547737	0.025936026077112	 *
+Phospholipids	NA	NA	NA
+Triacylglycerols	NA	NA	NA
+Fatty acids	NA	NA	NA
+Isoprenoids	0.627423947544416	0.815651131807741	
+Nitrogen Metabolism - no subcategory	0.0695836581874154	0.208111530028866	
+Spore DNA protection	NA	NA	NA
+Dormancy and Sporulation - no subcategory	1.20527184873118e-05	0.000156685340335054	 * * *
+ATP synthases	NA	NA	NA
+Electron accepting reactions	NA	NA	NA
+Electron donating reactions	3.90581811625517e-20	2.03102542045269e-18	 * * *
+Respiration - no subcategory	NA	NA	NA
+Sodium Ion-Coupled Energetics	NA	NA	NA
+Osmotic stress	0.000845696653712708	0.00628231799900869	 * *
+Oxidative stress	0.0391488410403206	0.145409981006905	
+Cold shock	NA	NA	NA
+Heat shock	0.498011587088299	0.719350070238654	
+Stress Response - no subcategory	NA	NA	NA
+Periplasmic Stress	NA	NA	NA
+Peripheral pathways for catabolism of aromatic compounds	0.167476405675768	0.378642308484346	
+Metabolism of central aromatic intermediates	NA	NA	NA
+Metabolism of Aromatic Compounds - no subcategory	NA	NA	NA
+Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	0.597880426215669	0.815651131807741	
+Histidine Metabolism	NA	NA	NA
+Arginine; urea cycle, polyamines	0.369735440848161	0.582613421942557	
+Lysine, threonine, methionine, and cysteine	0.283241525328109	0.475114816679408	
+Amino Acids and Derivatives - no subcategory	NA	NA	NA
+Branched-chain amino acids	NA	NA	NA
+Aromatic amino acids and derivatives	5.18866904880457e-06	8.99369301792792e-05	 * * *
+Proline and 4-hydroxyproline	0.452517838091313	0.692086105316126	
+Alanine, serine, and glycine	0.00487717096979223	0.0253612890429196	 *
+Sulfur Metabolism - no subcategory	0.303641005016649	0.493416633152054	
+Phosphorus Metabolism - no subcategory	0.0437765262973571	0.151758624497505	
+Central carbohydrate metabolism	0.226892815144726	0.406842289225026	
+Aminosugars	NA	NA	NA
+Di- and oligosaccharides	NA	NA	NA
+One-carbon Metabolism	0.0309732186355537	0.123892874542215	
+Organic acids	NA	NA	NA
+Fermentation	0.00016790086137622	0.00174616895831268	 * *
+Sugar alcohols	NA	NA	NA
+Carbohydrates - no subcategory	NA	NA	NA
+Polysaccharides	NA	NA	NA
+Monosaccharides	0.226630951719837	0.406842289225026	
