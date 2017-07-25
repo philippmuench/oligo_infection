@@ -3,12 +3,11 @@
 - project report: https://www.overleaf.com/10085180pjxxvvwjxppx
 
 # Table of Contents  
-[Analysis 1 (per Category, 3 groups)](#analysis-1)  
-[Analysis 2 (per Subcategory, 3 groups)](#analysis-2)  
+[Analysis 1 (per Category, 3 groups, old analysis)](#analysis-1)  
+[Analysis 2 (per Subcategory, 3 groups, old analysis)](#analysis-2)  
 [Analysis 3 (Random Forest Regression)](#analysis-3)  
-[Analysis 4 (per Subsystem, 2 groups A)](#analysis-4)  
-[Analysis 5 (per Subsystem, 2 groups B)](#analysis-5)  
-
+[Analysis 4 (per Subsystem, 2 groups, depleted + intermediate vs. enriched)](#analysis-4)  
+[Analysis 5 (per Subsystem, 2 groups, enriched + intermediate vs. depleted)](#analysis-5)  
 
 # Results
 # Analysis 1
@@ -84,4 +83,30 @@ No. of variables tried at each split: 37
 
 ```
 source('analysis3.R')
+```
+
+# Analysis 4
+**Aim:** Fisher test and heat map for every SEED Category. (Depleted + Intermediate) vs. Enriched
+
+**Results:**
+- heatmaps: see `analysis4` folder
+- [FDR corrected P value matrix](results/analysis4/table1.xlsx)
+
+**Reproduce:**
+
+```
+source('analysis4.R')
+```
+
+# Analysis 5
+**Aim:** Fisher test and heat map for every SEED Category. Depleted vs. (Enriched + Intermediate)
+
+**Results:**
+- heatmaps: see `analysis5` folder
+- [FDR corrected P value matrix](results/analysis5/table2.xlsx)
+
+**Reproduce:**
+
+```
+source('analysis5.R')
 ```
