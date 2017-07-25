@@ -117,7 +117,7 @@ source('analysis5.R')
 **Aim:** Fisher test and heat map for every SEED Subsystem. 3 groups
 
 **Results:**
-- heatmaps: see `analysis4` [folder](analysis6/)
+- heatmaps: see `analysis6` [folder](analysis6/)
 - [FDR corrected P value matrix](analysis6/table5.xlsx)
 
 **Reproduce:**
@@ -131,13 +131,13 @@ source('analysis6.R')
 **Aim:** Fisher test and heat map for every SEED Subcategory. enriched vs. depleted + intermediate
 
 **Results:**
-- heatmaps: see `analysis4` [folder](analysis7/)
+- heatmaps: see `analysis7` [folder](analysis7/)
 - [FDR corrected P value matrix](analysis7/table3.xlsx)
 
 **Reproduce:**
 
 ```
-source('analysis4.R')
+source('analysis7.R')
 ```
 
 
