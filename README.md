@@ -3,7 +3,6 @@
 - project report: https://www.overleaf.com/10085180pjxxvvwjxppx
 
 # Table of Contents  
-[Usage](#usage)  
 [Analysis 1 (per Category, 3 groups)](#analysis-1)  
 [Analysis 2 (per Subcategory, 3 groups)](#analysis-2)  
 [Analysis 3 (Random Forest Regression)](#analysis-3)  
@@ -25,8 +24,6 @@
 source('analysis1.R')
 ```
 
-
-
 # Results
 # Analysis 1
 **Aim:** Fisher test and heat map for every SEED Category
@@ -45,8 +42,8 @@ source('analysis1.R')
 **Aim:** Fisher test and heat map for every SEED Subsystem
 
 **Results:**
-- [heatmaps](results/analysis1/)
-- [FDR corrected P value matrix](results/analysis1/pval_subsystem.txt)
+- [heatmaps](results/analysis2/)
+- [FDR corrected P value matrix](results/analysis2/pval_subsystem.txt)
 
 **Reproduce:**
 
@@ -86,5 +83,5 @@ No. of variables tried at each split: 37
 **Reproduce:**
 
 ```
-source('analysis1.R')
+source('analysis3.R')
 ```
