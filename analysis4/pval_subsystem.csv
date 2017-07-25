@@ -1,0 +1,308 @@
+SEED Subsystem	P Value (two sided Fisher’s test)	FDR	stars
+Chorismate: Intermediate for synthesis of Tryptophan, PAPA antibiotics, PABA, 3-hydroxyanthranilate and more.	0.0002750492	0.029705316	 *
+Purine conversions	0.033451244	1	
+Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate	0.0345195147	1	
+Transcription initiation, bacterial sigma factors	0.0799178792	1	
+Ribonucleotide reduction	0.1053612508	1	
+Phenylalanine and Tyrosine Branches from Chorismate	0.1326645553	1	
+tRNAs	0.1752432545	1	
+Potassium homeostasis	0.1915744081	1	
+Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	0.2477423602	1	
+Serine Biosynthesis	0.2528988418	1	
+Proteolysis in bacteria, ATP-dependent	0.2668033865	1	
+Copper homeostasis	0.2741409206	1	
+tRNA aminoacylation, Gly	0.2948537961	1	
+RNA polymerase bacterial	0.3129006203	1	
+De Novo Purine Biosynthesis	0.3150989359	1	
+Magnesium transport	0.3229775517	1	
+Folate Biosynthesis	0.3539844026	1	
+Phosphoglycerate mutase protein family	0.3638736176	1	
+Isoprenoinds for Quinones	0.3659680972	1	
+Ribonuclease H	0.4143227889	1	
+tRNA aminoacylation, Phe	0.4143227889	1	
+DNA Repair Base Excision	0.444652388	1	
+Protein chaperones	0.4722051423	1	
+UDP-N-acetylmuramate from Fructose-6-phosphate Biosynthesis	0.4770051466	1	
+Housecleaning nucleoside triphosphate pyrophosphatases	0.484491833	1	
+Folate biosynthesis cluster	0.5153132685	1	
+DNA topoisomerases, Type II, ATP-dependent	0.5170209377	1	
+Nudix proteins (nucleoside triphosphate hydrolases)	0.5309151516	1	
+NAD and NADP cofactor biosynthesis global	0.5419931204	1	
+Pyruvate metabolism I: anaplerotic reactions, PEP	0.5464368454	1	
+Isoprenoid Biosynthesis	0.5470975985	1	
+Coenzyme A Biosynthesis	0.5825510229	1	
+Transcription factors bacterial	0.5859733776	1	
+Thiamin biosynthesis	0.5891459463	1	
+One-carbon metabolism by tetrahydropterines	0.5970183018	1	
+Translation elongation factor G family	0.6008072323	1	
+Uracil-DNA glycosylase	0.6008072323	1	
+Universal GTPases	0.6136512199	1	
+Bacterial signal recognition particle (SRP)	0.6204768345	1	
+Ribosome biogenesis bacterial	0.6349616415	1	
+Respiratory dehydrogenases 1	0.6356697164	1	
+Macromolecular synthesis operon	0.6382246751	1	
+High affinity phosphate transporter and control of PHO regulon	0.6465874036	1	
+RNA methylation	0.6627156819	1	
+Resistance to fluoroquinolones	0.6674830668	1	
+Heat shock dnaK gene cluster extended	0.6681696637	1	
+De Novo Pyrimidine Synthesis	0.7080021388	1	
+tRNA aminoacylation, Asp and Asn	0.7129330754	1	
+tRNA aminoacylation, Glu and Gln	0.7129330754	1	
+Pyruvate Alanine Serine Interconversions	0.7129330754	1	
+Threonine and Homoserine Biosynthesis	0.7312148399	1	
+GroEL GroES	0.7343870778	1	
+tRNA aminoacylation, Ala	0.7521453821	1	
+Bacterial Cytoskeleton	0.7583486638	1	
+Sporulation-associated proteins with broader functions	0.7821424355	1	
+Lysine Biosynthesis DAP Pathway, GJO scratch	0.7853932087	1	
+Lysine Biosynthesis DAP Pathway	0.7853932087	1	
+tRNA aminoacylation, Pro	0.786308506	1	
+DNA structural proteins, bacterial	0.804368847	1	
+Protein degradation	0.8210572549	1	
+Cobalt-zinc-cadmium resistance	0.8348480415	1	
+DNA processing cluster	0.83682829	1	
+DNA repair, UvrABC system	0.8397156217	1	
+Mycobacterium virulence operon involved in protein synthesis (SSU ribosomal proteins)	0.8434109388	1	
+Proline Synthesis	0.8449571393	1	
+Translation elongation factors bacterial	0.86691178	1	
+RNA pseudouridine syntheses	0.8739751492	1	
+Queuosine-Archaeosine Biosynthesis	0.8925107239	1	
+DNA repair, bacterial	0.9213125958	1	
+Biotin biosynthesis	1	1	
+Riboflavin, FMN and FAD metabolism in plants	1	1	
+riboflavin to FAD	1	1	
+Riboflavin, FMN and FAD metabolism	1	1	
+Murein Hydrolases	1	1	
+YjeE	1	1	
+Peptidoglycan biosynthesis--gjo	1	1	
+Mycobacterium virulence operon involved in DNA transcription	1	1	
+Copper Transport System	1	1	
+tRNA nucleotidyltransferase	1	1	
+RNA processing and degradation, bacterial	1	1	
+16S rRNA modification within P site of ribosome	1	1	
+tRNA processing	1	1	
+tRNA aminoacylation, Val	1	1	
+tRNA aminoacylation, Met	1	1	
+tRNA aminoacylation, Ile	1	1	
+tRNA aminoacylation, Arg	1	1	
+tRNA aminoacylation, Trp	1	1	
+Programmed frameshift	1	1	
+tRNA aminoacylation, Cys	1	1	
+Translation termination factors bacterial	1	1	
+tRNA aminoacylation, His	1	1	
+tRNA aminoacylation, Lys	1	1	
+tRNA aminoacylation, Thr	1	1	
+tRNA aminoacylation, Ser	1	1	
+tRNA aminoacylation, Tyr	1	1	
+tRNA aminoacylation, Leu	1	1	
+Lipoprotein Biosynthesis	1	1	
+Signal peptidase	1	1	
+Metallocarboxypeptidases (EC 3.4.17.-)	1	1	
+YgjD and YeaZ	1	1	
+DNA repair, bacterial UvrD and related helicases	1	1	
+YcfH	1	1	
+DNA topoisomerases, Type I, ATP-independent	1	1	
+Glutamine synthetases	1	1	
+Methionine Biosynthesis	1	1	
+A Hypothetical Protein Related to Proline Metabolism	1	1	
+Alanine biosynthesis	1	1	
+Thioredoxin-disulfide reductase	1	1	
+Biotin biosynthesis Experimental	NA	NA	NA
+Cobalamin synthesis	NA	NA	NA
+Flavodoxin	NA	NA	NA
+Pyridoxin (Vitamin B6) Biosynthesis	NA	NA	NA
+Pyridoxin(Vitamin B6) Degradation Pathway	NA	NA	NA
+Molybdenum cofactor biosynthesis	NA	NA	NA
+dTDP-rhamnose synthesis	NA	NA	NA
+CMP-N-acetylneuraminate Biosynthesis	NA	NA	NA
+Polysaccharide deacetylases	NA	NA	NA
+Phosphorylcholine incorporation in LPS	NA	NA	NA
+Rhamnose containing glycans	NA	NA	NA
+Exopolysaccharide Biosynthesis	NA	NA	NA
+Sialic Acid Metabolism	NA	NA	NA
+Recycling of Peptidoglycan Amino Acids	NA	NA	NA
+Teichoic and lipoteichoic acids biosynthesis	NA	NA	NA
+D-Alanyl Lipoteichoic Acid Biosynthesis	NA	NA	NA
+Sortase	NA	NA	NA
+Polyglycerolphosphate lipoteichoic acid biosynthesis	NA	NA	NA
+Bacitracin Stress Response	NA	NA	NA
+Resistance to Vancomycin	NA	NA	NA
+Mercuric reductase	NA	NA	NA
+Mercury resistance operon	NA	NA	NA
+Tetracycline resistance, ribosome protection type	NA	NA	NA
+Tetracycline resistance, ribosome protection type, too	NA	NA	NA
+Beta-lactamase	NA	NA	NA
+Cadmium resistance	NA	NA	NA
+Multidrug Resistance Efflux Pumps	NA	NA	NA
+Mycobacterium virulence operon involved in an unknown function with a Jag Protein and YidC and YidD	NA	NA	NA
+Mycobacterium virulence operon possibly involved in quinolinate biosynthesis	NA	NA	NA
+Listeria surface proteins: Internalin-like proteins	NA	NA	NA
+Mycobacterium virulence operon involved in protein synthesis (LSU ribosomal proteins)	NA	NA	NA
+Hyperosmotic potassium uptake	NA	NA	NA
+Conserved gene cluster possibly involved in RNA metabolism	NA	NA	NA
+Tungstate strays	NA	NA	NA
+Muconate lactonizing enzyme family	NA	NA	NA
+Bacillus subtilis scratch - gjo	NA	NA	NA
+Phage tail proteins	NA	NA	NA
+Phage replication	NA	NA	NA
+Phage packaging machinery	NA	NA	NA
+Phage tail proteins 2	NA	NA	NA
+Phage capsid proteins	NA	NA	NA
+IbrA and IbrB: co-activators of prophage gene expression	NA	NA	NA
+Widespread colonization island	NA	NA	NA
+ABC transporter tungstate (TC 3.A.1.6.2)	NA	NA	NA
+ABC transporter oligopeptide (TC 3.A.1.5.1)	NA	NA	NA
+ABC transporter dipeptide (TC 3.A.1.5.2)	NA	NA	NA
+Transport of Nickel and Cobalt	NA	NA	NA
+NhaA, NhaD and Sodium-dependent phosphate transporters	NA	NA	NA
+Tricarboxylate transport system	NA	NA	NA
+ECF class transporters	NA	NA	NA
+Ton and Tol transport systems	NA	NA	NA
+TRAP Transporter collection	NA	NA	NA
+Type IV pilus	NA	NA	NA
+Iron acquisition in Streptococcus	NA	NA	NA
+Methylthiotransferases	NA	NA	NA
+Ribonucleases in Bacillus	NA	NA	NA
+Rrf2 family transcriptional regulators	NA	NA	NA
+Group II intron-associated genes	NA	NA	NA
+Xanthine dehydrogenase subunits	NA	NA	NA
+Xanthine Metabolism in Bacteria	NA	NA	NA
+Purine Utilization	NA	NA	NA
+Hydantoin metabolism	NA	NA	NA
+Adenosyl nucleosidases	NA	NA	NA
+Translation initiation factors bacterial	NA	NA	NA
+Ribosome SSU bacterial	NA	NA	NA
+Ribosome activity modulation	NA	NA	NA
+Ribosome LSU bacterial	NA	NA	NA
+Ribosomal protein S12p Asp methylthiotransferase	NA	NA	NA
+G3E family of P-loop GTPases (metallocenter biosynthesis)	NA	NA	NA
+Ribosomal protein S5p acylation	NA	NA	NA
+N-linked Glycosylation in Bacteria	NA	NA	NA
+Aminopeptidases (EC 3.4.11.-)	NA	NA	NA
+Dipeptidases (EC 3.4.13.-)	NA	NA	NA
+Bacterial checkpoint-control-related cluster	NA	NA	NA
+Bacterial Chemotaxis	NA	NA	NA
+cAMP signaling in bacteria	NA	NA	NA
+LysR-family proteins in Salmonella enterica Typhimurium	NA	NA	NA
+LysR-family proteins in Escherichia coli	NA	NA	NA
+HPr catabolite repression system	NA	NA	NA
+Orphan regulatory proteins	NA	NA	NA
+Stringent Response, (p)ppGpp metabolism	NA	NA	NA
+Cell envelope-associated LytR-CpsA-Psr transcriptional attenuators	NA	NA	NA
+BarA-UvrY(SirA) two-component regulatory system	NA	NA	NA
+Murein hydrolase regulation and cell death	NA	NA	NA
+Toxin-antitoxin replicon stabilization systems	NA	NA	NA
+Lanthionine Synthetases	NA	NA	NA
+Auxin biosynthesis	NA	NA	NA
+DNA repair, bacterial MutL-MutS system	NA	NA	NA
+DNA repair, bacterial DinG and relatives	NA	NA	NA
+2-phosphoglycolate salvage	NA	NA	NA
+RecA and RecX	NA	NA	NA
+DNA repair system including RecA, MutS and a hypothetical protein	NA	NA	NA
+ATP-dependent Nuclease	NA	NA	NA
+DNA repair, bacterial RecFOR pathway	NA	NA	NA
+DNA repair, bacterial RecBCD pathway	NA	NA	NA
+Nonhomologous End-Joining in Bacteria	NA	NA	NA
+CRISPRs	NA	NA	NA
+DNA ligases	NA	NA	NA
+DNA-replication	NA	NA	NA
+RuvABC plus a hypothetical	NA	NA	NA
+Cardiolipin synthesis	NA	NA	NA
+Glycerolipid and Glycerophospholipid Metabolism in Bacteria	NA	NA	NA
+Triacylglycerol metabolism	NA	NA	NA
+Fatty Acid Biosynthesis FASII	NA	NA	NA
+Nonmevalonate Branch of Isoprenoid Biosynthesis	NA	NA	NA
+Nitrosative stress	NA	NA	NA
+Nitrate and nitrite ammonification	NA	NA	NA
+Ammonia assimilation	NA	NA	NA
+Dipicolinate Synthesis	NA	NA	NA
+Small acid-soluble spore proteins	NA	NA	NA
+Sporulation gene orphans	NA	NA	NA
+Spore Core Dehydration	NA	NA	NA
+SpoVS protein family	NA	NA	NA
+Sporulation Cluster III A	NA	NA	NA
+V-Type ATP synthase	NA	NA	NA
+Anaerobic respiratory reductases	NA	NA	NA
+Na(+)-translocating NADH-quinone oxidoreductase and rnf-like group of electron transport complexes	NA	NA	NA
+NiFe hydrogenase maturation	NA	NA	NA
+Carbon monoxide induced hydrogenase	NA	NA	NA
+Formate hydrogenase	NA	NA	NA
+Soluble cytochromes and functionally related electron carriers	NA	NA	NA
+Na+ translocating decarboxylases and related biotin-dependent enzymes	NA	NA	NA
+Choline and Betaine Uptake and Betaine Biosynthesis	NA	NA	NA
+Oxidative stress	NA	NA	NA
+Glutathione: Non-redox reactions	NA	NA	NA
+Rubrerythrin	NA	NA	NA
+Redox-dependent regulation of nucleus processes	NA	NA	NA
+Cold shock, CspA family of proteins	NA	NA	NA
+Uptake of selenate and selenite	NA	NA	NA
+SigmaB stress responce regulation	NA	NA	NA
+Hfl operon	NA	NA	NA
+Carbon Starvation	NA	NA	NA
+Periplasmic Stress Response	NA	NA	NA
+Quinate degradation	NA	NA	NA
+Salicylate and gentisate catabolism	NA	NA	NA
+Gentisate degradation	NA	NA	NA
+Glutamate dehydrogenases	NA	NA	NA
+Glutamate and Aspartate uptake in Bacteria	NA	NA	NA
+Histidine Degradation	NA	NA	NA
+Histidine Biosynthesis	NA	NA	NA
+Arginine Deiminase Pathway	NA	NA	NA
+Polyamine Metabolism	NA	NA	NA
+Arginine and Ornithine Degradation	NA	NA	NA
+Arginine Biosynthesis extended	NA	NA	NA
+Arginine Biosynthesis -- gjo	NA	NA	NA
+Threonine degradation	NA	NA	NA
+Methionine Degradation	NA	NA	NA
+Cysteine Biosynthesis	NA	NA	NA
+Lysine degradation	NA	NA	NA
+Creatine and Creatinine Degradation	NA	NA	NA
+Branched-Chain Amino Acid Biosynthesis	NA	NA	NA
+Leucine Biosynthesis	NA	NA	NA
+Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	NA	NA	NA
+Aromatic amino acid interconversions with aryl acids	NA	NA	NA
+Indole-pyruvate oxidoreductase complex	NA	NA	NA
+Chorismate Synthesis	NA	NA	NA
+Tryptophan synthesis	NA	NA	NA
+Glycine Biosynthesis	NA	NA	NA
+Glycine and Serine Utilization	NA	NA	NA
+Galactosylceramide and Sulfatide metabolism	NA	NA	NA
+Phosphate metabolism	NA	NA	NA
+Polyphosphate	NA	NA	NA
+Phosphonate metabolism	NA	NA	NA
+Methylglyoxal Metabolism	NA	NA	NA
+Pyruvate:ferredoxin oxidoreductase	NA	NA	NA
+Glycolysis and Gluconeogenesis	NA	NA	NA
+Entner-Doudoroff Pathway	NA	NA	NA
+Pentose phosphate pathway	NA	NA	NA
+Glycolate, glyoxylate interconversions	NA	NA	NA
+Chitin and N-acetylglucosamine utilization	NA	NA	NA
+N-Acetyl-Galactosamine and Galactosamine Utilization	NA	NA	NA
+Trehalose Biosynthesis	NA	NA	NA
+Sucrose utilization	NA	NA	NA
+Fructooligosaccharides(FOS) and Raffinose Utilization	NA	NA	NA
+Maltose and Maltodextrin Utilization	NA	NA	NA
+Trehalose Uptake and Utilization	NA	NA	NA
+Lactose and Galactose Uptake and Utilization	NA	NA	NA
+Lactose utilization	NA	NA	NA
+Methanogenesis	NA	NA	NA
+Glycerate metabolism	NA	NA	NA
+Citrate Metabolism, Transport, and Regulation	NA	NA	NA
+Fermentations: Mixed acid	NA	NA	NA
+Acetolactate synthase subunits	NA	NA	NA
+Fermentations: Lactate	NA	NA	NA
+Glycerol and Glycerol-3-phosphate Uptake and Utilization	NA	NA	NA
+Inositol catabolism	NA	NA	NA
+Lacto-N-Biose I and Galacto-N-Biose Metabolic Pathway	NA	NA	NA
+Glycogen metabolism	NA	NA	NA
+Alpha-Amylase locus in Streptocococcus	NA	NA	NA
+Mannose Metabolism	NA	NA	NA
+Deoxyribose and Deoxynucleoside Catabolism	NA	NA	NA
+Fructose utilization	NA	NA	NA
+D-galactarate, D-glucarate and D-glycerate catabolism - gjo	NA	NA	NA
+D-Galacturonate and D-Glucuronate Utilization	NA	NA	NA
+D-ribose utilization	NA	NA	NA
+L-fucose utilization temp	NA	NA	NA
+Xylose utilization	NA	NA	NA
+D-galactarate, D-glucarate and D-glycerate catabolism	NA	NA	NA
+L-Arabinose utilization	NA	NA	NA
