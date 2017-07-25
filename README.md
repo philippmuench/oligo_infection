@@ -28,8 +28,8 @@ source('analysis1.R')
 **Aim:** Fisher test and heat map for every SEED Category
 
 **Results:**
-- [heatmaps](results/analysis1/)
-- [FDR corrected P value matrix](results/analysis1/pval_category.txt)
+- [heatmaps](analysis1/)
+- [FDR corrected P value matrix](analysis1/pval_category.txt)
 
 **Reproduce:**
 
@@ -41,8 +41,8 @@ source('analysis1.R')
 **Aim:** Fisher test and heat map for every SEED Subsystem
 
 **Results:**
-- [heatmaps](results/analysis2/)
-- [FDR corrected P value matrix](results/analysis2/pval_subsystem.txt)
+- [heatmaps](analysis2/)
+- [FDR corrected P value matrix](analysis2/pval_subsystem.txt)
 
 **Reproduce:**
 
@@ -89,8 +89,8 @@ source('analysis3.R')
 **Aim:** Fisher test and heat map for every SEED Category. (Depleted + Intermediate) vs. Enriched
 
 **Results:**
-- heatmaps: see `analysis4` folder
-- [FDR corrected P value matrix](results/analysis4/table1.xlsx)
+- heatmaps: see `analysis4` [folder](analysis4/)
+- [FDR corrected P value matrix](analysis4/table1.xlsx)
 
 **Reproduce:**
 
@@ -102,8 +102,8 @@ source('analysis4.R')
 **Aim:** Fisher test and heat map for every SEED Category. Depleted vs. (Enriched + Intermediate)
 
 **Results:**
-- heatmaps: see `analysis5` folder
-- [FDR corrected P value matrix](results/analysis5/table2.xlsx)
+- heatmaps: see `analysis5` [folder](analysis5/)
+- [FDR corrected P value matrix](analysis5/table2.xlsx)
 
 **Reproduce:**
 
