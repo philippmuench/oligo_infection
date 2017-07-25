@@ -65,9 +65,7 @@ No. of variables tried at each split: 37
                     % Var explained: 15.77
 ```
 
-- [Node purity plot](results/analysis3/node_purity.pdf)
-- [Observed/predicted FC plot](results/analysis3/observed_predicted.pdf)
-
+- [Node purity plot](analysis3/node_purity.pdf)
 - predicted FC based on RF model
 
 | Genome                       | predicted FC |
