@@ -68,17 +68,9 @@ No. of variables tried at each split: 37
                     % Var explained: 15.77
 ```
 
-- [Node purity plot](analysis3/node_purity.pdf)
-- predicted FC based on RF model
+Model predictions for selected genomes based on SEED subsystem annotation
 
-| Genome                       | predicted FC |
-|------------------------------|--------------|
-| Clostridium difficile 630    | -204         |
-| Salmonella enterica          | -386         |
-| Escherichia coli Nissle 1917 | -343         |
-| Escherichia coli 536A        | -341         |
-| Bacteroides fragilis 638R    | -432         |
-| Mucispirillum                | -798         |
+![text](fold_changes_2.png)
 
 **Reproduce:**
 
